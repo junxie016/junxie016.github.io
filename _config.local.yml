@@ -1,0 +1,9 @@
+external_sources: []
+external_sources_rss: []
+imagemagick:
+  enabled: false
+
+# 新增：
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+exclude:
+  - assets/jupyter/
